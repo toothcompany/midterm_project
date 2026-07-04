@@ -1,5 +1,7 @@
 # Tooth Company: The Lost Toothbrush
 
+### ▶ [Play in browser](https://toothcompany.github.io/midterm_project/)
+
 A short 2D educational game about dental hygiene, built with Unity 6 (6000.0.76f1).
 Help the Tooth Fairy fight plaque germs, find the lost toothbrush, and clean the
 plaque along the gumline!
